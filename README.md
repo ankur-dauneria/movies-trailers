@@ -24,7 +24,7 @@
 
 ## media.py
 
-This file contains classes which are used to build the complete backend of this projects. It has two classes `Video` and `Movie`.
+This file contains classes which are used to build the complete backend of this project. It has two classes `Video` and `Movie`.
 Video is parent class and Movie is a child class.
 
 
