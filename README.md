@@ -1,6 +1,6 @@
 # Movies Trailer Website
 
-> Movies Trailer webpage is a project, comprising of a front end and a backend. Based on user provided list of movies, movies trailer webpage is constructed. User can click on movie tile to play its corresponding YouTube trailer. This project backend comprises of python classes to store the movie information. The objects are instantiated (of different user choice movies) to construct a trailer webpage.
+> Movies Trailer webpage is a project, comprising of a front end and a backend. Based on user provided list of movies, movies trailer webpage is constructed. User can view movie details, and click on it to play its corresponding YouTube trailer. This project backend comprises of python classes to store the movie related information. The objects are instantiated (of different user choice movies) to construct a trailer webpage.
 
 # Quickstart
 
