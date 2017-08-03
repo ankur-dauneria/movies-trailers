@@ -115,15 +115,15 @@ class Movie(Video):
         self._rating = rating
 
     @property
-    def storyLine(self):
+    def storyline(self):
         """Returns the storyline of the movie
 
         Returns: storyline of the movie
         """
         return self._storyline
 
-    @storyLine.setter
-    def storyLine(self, storyline):
+    @storyline.setter
+    def storyline(self, storyline):
         """Sets the storyline of the movie
 
         Args: \n
