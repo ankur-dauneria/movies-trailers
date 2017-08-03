@@ -66,6 +66,7 @@ class Movie(Video):
        Inherits from Video Class.
 
     Attributes: \n
+        rating: rating of the movie\n
         year: Year of the movie release\n
         storyline: storyline of the movie\n
         poster_image_url: URL of the poster image ofthe movie\n
