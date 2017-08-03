@@ -7,8 +7,8 @@
 ### Installation
 
 ```
-    $ git clone {repository}
-    $ cd <repository_folder>
+    $ git clone https://github.com/ankur-dauneria/movies-trailers.git
+    $ cd  movies-trailers
     $ python entertainment_media.py
 ```
 
