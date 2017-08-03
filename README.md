@@ -18,7 +18,7 @@
 
 - Backend: Python
 
-- Web Framework: Bootstrap
+- Front-end Web Framework: Bootstrap
 
 # Resources
 
