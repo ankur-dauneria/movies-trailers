@@ -68,6 +68,10 @@ Sample object is instantiated as below:
 
 It has task to build the HTML webpage based on the movie objects details supplied to it. It uses `bootstrap` web framework to build the webpage.
 
+## fresh_tomatoes.html
+
+Its the final HTML movies trailers webpage created on execution of `entertainment_media.py`
+
 # API
 
 `def title(self)` returns the title of the movie
